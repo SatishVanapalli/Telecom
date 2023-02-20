@@ -15,6 +15,9 @@
 	</style>
 </head>
 <body>
+<link rel='stylesheet' href='https://bots.kore.ai/webclient/UI/dist/kore-ai-sdk.min.css'></link>
+<script src='https://bots.kore.ai/api/platform/websdkjs/76c3229cf75542e39139b55a367bae9ad1626f6f5aac45a8af7a56c3a0b235dcst43'></script>
+<script>KoreSDK.show(KoreSDK.chatConfig);</script>
 	<header>
 		<h1>Telecom Website</h1>
 		<nav>
